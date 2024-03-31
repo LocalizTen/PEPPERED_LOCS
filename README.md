@@ -6,7 +6,7 @@ Translations for PEPPERED
 
 ## Quick Q&A
 *Q*: Why is this repo empty?  
-*A*: Not all text was captured for translation. If you want to help, please read the next question.  
+*A*: Not all text was captured for translation, which why we don't have any translations yet. If you want to help us, please read the next question.  
   
 *Q*: How can I help translate PEPPERED?  
 *A*: I will let you know as soon as possible.  
