@@ -10,7 +10,7 @@ Translations for PEPPERED (DEMO)
 *A*: I'm making mod that will allow change some text in older version of PEPPERED DEMO  
   
 *Q* But what about new versions of demo?  
-*A*: Not all text was captured for translation, which why we don't have any translations yet.  
+*A*: Not all text was captured for translation, which why we don't have any translations for it yet.  
   
 *Q*: How can I help translate PEPPERED?  
 *A*: I will let you know as soon as possible.  
